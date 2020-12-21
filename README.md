@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-Thank you for visiting my Github profile. <br>
+<b>Thank you for visiting my Github profile. <br>
 I'm an Automobile Engineer who also loves coding.. <br>
 Visit my LinkedIn to know more about me! <br>
 Otherwise you can ask me anything <a href="https://github.com/KarthikKarhem/KarthikKarhem/issues/new"><b>here</b></a>
 or <a href="mailto:mailkarhem@gmail.com"><b>email</b></a> me. <br>
-⚡ Fun fact: Kishimoto is fine if Naruto dies in Boruto 😐 <br>
+⚡ Fun fact: Kishimoto is fine if Naruto dies in Boruto</b> 😐 <br>
 
 <i>Happy Coding!</i> 😊
 ---

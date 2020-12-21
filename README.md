@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 Thank you for visiting my Github profile. <br>
 Ask me anything <a href="https://github.com/KarthikKarhem/KarthikKarhem/issues/new"><b>here</b></a>
 or <a href="mailto:mailkarhem@gmail.com"><b>email</b></a> me. <br>
-⚡ Fun fact: Kishimoto is fine if Naruto dies in Boruto 😐
+⚡ Fun fact: Kishimoto is fine if Naruto dies in Boruto 😐 <br>
 <i>Happy Coding!</i> 😊
 ---
 <i>Connect with me:</i><b>
 <a href="https://www.linkedin.com/in/karthik-karhem/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
-<i>Hits:</i><b>
+
 [![HitCount](http://hits.dwyl.com/KarthikKarhem/KarthikKarhem/KarthikKarhem.svg)](http://hits.dwyl.com/KarthikKarhem/KarthikKarhem/KarthikKarhem)
 
 </div>

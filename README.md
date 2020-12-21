@@ -25,6 +25,7 @@ Visit my LinkedIn to know more about me! <br>
 Otherwise you can ask me anything <a href="https://github.com/KarthikKarhem/KarthikKarhem/issues/new"><b>here</b></a>
 or <a href="mailto:mailkarhem@gmail.com"><b>email</b></a> me. <br>
 ⚡ Fun fact: Kishimoto is fine if Naruto dies in Boruto 😐 <br>
+
 <i>Happy Coding!</i> 😊
 ---
 <a href="https://www.linkedin.com/in/karthik-karhem/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

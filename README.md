@@ -29,6 +29,5 @@ or <a href="mailto:mailkarhem@gmail.com"><b>email</b></a> me. <br>
 <i>Happy Coding!</i> 😊
 ---
 <a href="https://www.linkedin.com/in/karthik-karhem/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![HitCount](http://hits.dwyl.com/KarthikKarhem/KarthikKarhem/KarthikKarhem.svg)](http://hits.dwyl.com/KarthikKarhem/KarthikKarhem/KarthikKarhem)
 
 </div>
